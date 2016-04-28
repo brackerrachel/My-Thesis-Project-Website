@@ -2,9 +2,6 @@ body {
 color:#28BE9B;
 text-align:center;
 }
-video autoplay loop poster="Website Looping Video FIRST FRAME.jpg" id="bgvid">
-  <source src="Website Looping Video Super Low Quality.webm" type="video/webm">
-  <source src="Website Looping Video Super Low Quality.mp4" type="video/mp4">
 
 video#bigvid {
     position: fixed;
@@ -22,4 +19,4 @@ video#bigvid {
     background: url(Website Looping Video FIRST FRAME.jpg) no-repeat;
     background-size: cover;
 }
-}
+
