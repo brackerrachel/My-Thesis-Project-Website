@@ -15,7 +15,7 @@ video {
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
 }
-#GirlsinRobotics button { 
+#headline button { 
   display: block;
   width: 80%;
   padding: .4rem;
@@ -28,7 +28,7 @@ video {
   cursor: pointer;
   transition: .3s background;
 }
-#GirlsinRobotics button:hover { 
+#headline button:hover { 
    background: rgba(0,0,0,0.5);
 }
 
